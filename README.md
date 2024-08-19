@@ -9,7 +9,7 @@ The Digital Product Marketplace is a ReactJS-based web application designed to f
 - **Product Listings:** Browse and explore a wide variety of digital products.
 - **Search Functionality:** Easily find products using advanced search and filtering options.
 - **User Reviews:** Read and submit reviews for products to help make informed purchasing decisions.
-- 
+
 ## Installation
 
 To get started with this project, follow these steps:
