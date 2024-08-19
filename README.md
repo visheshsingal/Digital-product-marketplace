@@ -13,7 +13,7 @@ To get started with this project, follow these steps:
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd Collabrative-code-editor
+   cd Digital-product-marketplace
 
 3. **Install Dependencies:**
 
